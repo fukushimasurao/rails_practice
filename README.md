@@ -7,3 +7,10 @@ This is the first application for the
 by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
 
 railsの練習リポジトリです。
+
+
+- git comit 
+`$ git commit -a -m "Improve the README file"`
+
+- push
+`$ git push`
